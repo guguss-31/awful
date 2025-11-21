@@ -83,7 +83,10 @@
 - _No Awful entries yet._
 
 ## Media
-- _No Awful entries yet._
+### Music Player
+- [Vibe you](https://github.com/you-apps/VibeYou) - Privacy focused music player built with MD3
+### Voice Recorder
+- [Record You](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
 
 ## Learn
 - _No Awful entries yet._
